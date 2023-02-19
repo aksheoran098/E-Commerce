@@ -6,7 +6,7 @@ const dotenv = require("dotenv");
 // call this only after configuring dotenv because it uses process.env.DB_URI
 const connectDatabase = require("./config/database")
 
-
+// log()
 
 
 //Config
